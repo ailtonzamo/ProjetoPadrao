@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="095e06bc-46c1-4dab-9e64-682db3222cfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ControleFluxo/src/main/java/Pet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ControleFluxo/src/main/java/Pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ControleFluxo/src/main/java/Pet/PetMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ControleFluxo/src/main/java/com/filme/Ingresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ControleFluxo/src/main/java/com/filme/IngressoFamilia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ControleFluxo/src/main/java/com/filme/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ControleFluxo/src/main/java/com/filme/MeiaEntrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.mvn/jvm.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/.mvn/maven.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/src/main/java/br/com/Dio/Model/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/src/main/java/br/com/Dio/Model/BoardGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/src/main/java/br/com/Dio/Model/GameStatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/src/main/java/br/com/Dio/Model/GameWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/src/main/java/br/com/Dio/Model/Space.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sudoku/src/test/java/br/com/Dio/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContaBanco/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContaBanco/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControleFluxo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ControleFluxo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../controle-candidatos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.mvn/jvm.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/.mvn/maven.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/src/main/java/com/contador/Contador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/src/main/java/com/contador/ParametrosInvalidosException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../controle-candidatos/src/test/java/com/contador/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2yBPuJNHbftHlkQaFgmOUaTd6aN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="095e06bc-46c1-4dab-9e64-682db3222cfa" name="Changes" comment="" />
+      <created>1749305220936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749305220936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
